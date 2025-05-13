@@ -44,7 +44,7 @@ interface DonorMatch {
 
 // --- Constants ---
 // IMPORTANT: Replace with your actual API URL if different
-const API_URL = "https://bloodconnect-backend-g2iy.onrender.com"; // Or your deployed API endpoint
+const API_URL = "add yours url or local address"; // Or your deployed API endpoint
 const locationOptions = [ // Example locations, customize as needed
   "Chennai",
   "Delhi",
