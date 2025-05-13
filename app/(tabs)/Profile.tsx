@@ -23,7 +23,7 @@ import { MaterialIcons } from '@expo/vector-icons'; // Import icons
 import ConfirmationModal from "../../components/ConfirmationModal"; // Adjust path if needed
 
 // API endpoint
-const API_URL = "https://bloodconnect-backend-g2iy.onrender.com"; // TODO: Change for production/deployment
+const API_URL = "add yours url or local address"; // TODO: Change for production/deployment
 
 // Picker options (Consider moving to a shared constants file)
 const bloodGroupOptions = ["A+", "A-", "B+", "B-", "O+", "O-", "AB+", "AB-"];
