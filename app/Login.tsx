@@ -5,7 +5,7 @@ import { useRouter } from 'expo-router';
 import { useAuth } from '../src/AuthContext'; // Assuming AuthContext is in src/
 import { MaterialIcons } from '@expo/vector-icons'; // Import icons
 
-const API_URL = "https://bloodconnect-backend-g2iy.onrender.com"; // TODO: Change for production/deployment
+const API_URL = "add yours url or local address"; // TODO: Change for production/deployment
 
 export default function Login() {
   const router = useRouter();
