@@ -24,7 +24,7 @@ import { useAuth } from "../../src/AuthContext"; // Adjust path if needed
 
 // --- Constants ---
 // IMPORTANT: Replace with your actual API URL
-const API_URL = "https://bloodconnect-backend-g2iy.onrender.com"; // Or your deployed API endpoint
+const API_URL = "add yours url or local address"; // Or your deployed API endpoint
 const cities = [ // Example locations, customize
   "All Locations", // Add an option to view all
   "Chennai",
